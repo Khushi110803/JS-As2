@@ -1,0 +1,39 @@
+/* Style the body to give a background color */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the h1 heading */
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Style the buttons */
+button {
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Style the select dropdown */
+select {
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* Style the student ID paragraph */
+p#studentId {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* You can add more styles here as needed to make your page visually attractive */
